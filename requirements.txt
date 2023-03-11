@@ -1,0 +1,7 @@
+sockets
+requests
+pyfiglet
+typer
+instagramy
+bs4
+setuptools
